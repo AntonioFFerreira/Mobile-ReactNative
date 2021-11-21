@@ -4,8 +4,8 @@ import { View, Text, Image} from 'react-native';
 class App extends Component{
   render(){
  
-    let nome = 'Antonio Francisco Ferreira';
-    let img = 'https://avatars.githubusercontent.com/u/75506455?v=4';
+    let nome = 'Rosangela';
+    let img = 'https://avatars.githubusercontent.com/u/68075168?v=4';
  
     return(
       <View style={{margin: 10}}>
@@ -21,11 +21,11 @@ class App extends Component{
         </View>
         <View>
         <Text style={{ fontSize: 15 }}>Matrícula FATEC RL:</Text>
-          <Text style={{ fontSize: 25 }}>RA: 0050831911001</Text>
+         
         </View>
         <View>
         <Text style={{ fontSize: 15 }}>Formação:</Text>
-          <Text style={{ fontSize: 25 }}>Aposentado e estudante.</Text>
+          <Text style={{ fontSize: 25 }}>estudante.</Text>
         </View>
         <View>
         <Text style={{ fontSize: 15 }}>Projetos:</Text>
